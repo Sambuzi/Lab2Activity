@@ -27,3 +27,7 @@ Progettare e migliorare progressivamente il comportamento del robot per:
 ## Risultato atteso
 
 Il robot deve essere in grado di **navigare autonomamente nell'ambiente**, evitare gli ostacoli e **raggiungere la sorgente luminosa nel minor tempo possibile**.
+
+## Frame della simulazione
+
+![Frame simulazione](frame_0000000518.png)
